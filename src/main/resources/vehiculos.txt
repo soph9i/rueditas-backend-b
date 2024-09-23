@@ -1,0 +1,7 @@
+1;ASR-121;KIA;Sportage;5;26000;Negro
+2;FAD-124;Toyota;Rav;5;24000;Negro
+3;ABC-456;Honda;Civic;4;22000;Rojo
+4;XYZ-789;Ford;Explorer;7;30000;Azul
+5;LMN-012;Chevrolet;Sonic;5;18000;Blanco
+6;DEF-345;Nissan;Sentra;5;20000;Gris
+7;GHI-678;Hyundai;Tucson;5;28000;Verde
